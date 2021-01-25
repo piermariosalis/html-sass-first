@@ -1,0 +1,32 @@
+$header_title: #CF649A;
+
+$header_subtitle: #6B717F;
+
+$header_paragraph: #1B95E0;
+
+
+$main_titles: #BF4080;
+
+$main_paragraphs_text_decoration: underline;
+
+
+h1 {
+    color: $header_title;
+}
+
+h2 {
+    color: $header_subtitle;
+}
+
+header p {
+    color: $header_paragraph;
+}
+
+h3 {
+    color: $main_titles;
+}
+
+main p {
+    text-decoration: $main_paragraphs_text_decoration;
+}
+
